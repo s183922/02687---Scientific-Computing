@@ -1,0 +1,5 @@
+setup.py
+ScientificComputing.egg-info/PKG-INFO
+ScientificComputing.egg-info/SOURCES.txt
+ScientificComputing.egg-info/dependency_links.txt
+ScientificComputing.egg-info/top_level.txt
